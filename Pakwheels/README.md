@@ -1,6 +1,6 @@
 # 📋 QA Test Case Documentation — PakWheels
 
-Professional test case documentation by **Zarnab** — QA Engineer with 4+ years of experience.
+Professional test case documentation by **Zarnab** QA Engineer with 4+ years of experience.
 
 ## 📁 Folder Structure
 
